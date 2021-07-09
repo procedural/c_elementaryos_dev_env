@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Firefox
+Exec=/home/constantine/Programs/Firefox/firefox.AppImage
+Path=/home/constantine/Programs/Firefox/
+Icon=/home/constantine/Programs/Firefox/firefox.png
+Terminal=false
+Type=Application
